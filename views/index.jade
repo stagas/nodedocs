@@ -1,0 +1,8 @@
+script!= 'var docs = ' + docsJson
+script(src="/js/client-app.js")
+h1= name
+input#search(type='text', autocomplete='off')
+.apidoc
+  #content
+    #api-content
+      #output

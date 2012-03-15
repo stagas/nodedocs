@@ -1,0 +1,7 @@
+.error
+  - if (statusCode == 404)
+    h1 <strong>404</strong> Not Found
+    p The requested URL does not exist
+  - else if (statusCode == 500)
+    h1 <strong>500</strong> Server Error
+    p Internal server error

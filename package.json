@@ -1,0 +1,14 @@
+{
+  "name": "nodedocs",
+  "description": "Node docs",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "~0.6.0"
+  },
+  "dependencies": {
+    "express": "~2.5.2",
+    "jade": "~0.19.0",
+    "express-prettylogger": "~0.1.0"
+  }
+}

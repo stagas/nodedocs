@@ -1,0 +1,18 @@
+body {
+font-family:Arial, sans-serif;
+padding:0;
+}
+
+.container {
+width:960px;
+margin:0 auto;
+}
+
+.error {
+text-align:center;
+}
+
+.error h1 strong {
+font-size:130px;
+vertical-align:middle;
+}
